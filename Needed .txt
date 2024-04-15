@@ -1,0 +1,11 @@
+df = pd.read_csv(r'C:\Users\Kostas\Downloads\imdb_master.csv', encoding='latin1') --> change with your location
+
+
+
+pip install matplotlib
+pip install seaborn
+pip install plotly
+pip install nltk
+pip install wordcloud
+pip install scikit-learn
+pip install tensorflow
